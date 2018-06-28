@@ -8,6 +8,10 @@ Thank you to the following folks for their help in making this tutorial:
 * Chloé-Agathe Azencott
 * Benoit Playe
 
+## Slides
+
+Slides by C.-A. Azencott to introduce this tutorial are available [in the 'slide' directory'](https://github.com/jpvert/2018_DS3_tutorial/slides/18-06-28-azencott.pdf) 
+
 ## Downloading
 
 Just do the usual: 
